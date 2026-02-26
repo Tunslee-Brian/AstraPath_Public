@@ -1,131 +1,73 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/galaxy.svg" width="120" alt="AstraPath Logo"/>
+  <img src="./assets/AstraPath_banner.png" alt="AstraPath Logo"/>
   <h1>🌌 AstraPath: The Spatial Cognitive Engine</h1>
-  <p><strong>Hệ điều hành Không gian cho Nghiên cứu, Tư duy và Sáng tạo</strong></p>
+  <p><strong>Hệ điều hành Không gian Tương tác Đa phương thức (Multi-modal Spatial OS)</strong></p>
   
   [![Status: Private Beta](https://img.shields.io/badge/Status-Private_Beta_for_AI_Young_Guru-blue.svg)]()
-  [![UI/UX: HUD Paradigm](https://img.shields.io/badge/UI%2FUX-HUD_Paradigm-ff69b4.svg)]()
-  [![Core: Edge RAG](https://img.shields.io/badge/Core-Zero_Hallucination_RAG-success.svg)]()
-  [![AI: Llama 3.2](https://img.shields.io/badge/AI-Llama_3.2_%7C_Groq_LPU-orange.svg)]()
+  [![Architecture: Edge RAG](https://img.shields.io/badge/Architecture-Edge_Computed_RAG-success.svg)]()
+  [![Processing: LPU Accelerated](https://img.shields.io/badge/Processing-Groq_LPU_Accelerated-orange.svg)]()
+  [![Vision: Llama 3.2](https://img.shields.io/badge/Vision-Llama_3.2_%7C_Gemini_1.5_Pro-purple.svg)]()
 
-  <p><em>Dự án tự hào tham dự <strong>AI Young Guru 2026</strong> - Team Mì Hảo Hảo</em></p>
+  <p><em>Sách trắng Kỹ thuật (Tech Whitepaper) - Tự hào tham dự <strong>AI Young Guru 2026</strong></em></p>
 </div>
 
 ---
 
-## 🛑 1. The Cognitive Crisis (Bối cảnh & Vấn đề)
+## 🚀 1. Tuyên ngôn Sản phẩm (The Vision)
 
-Chúng ta đang sống trong kỷ nguyên "Béo phì thông tin nhưng suy dinh dưỡng về nhận thức". 
+Trong kỷ nguyên bùng nổ của Trí tuệ Nhân tạo, chúng ta vẫn đang ép bộ não con người giao tiếp với máy móc qua những ô chat bằng văn bản tĩnh lặng và chật hẹp. **AstraPath ra đời để đập bỏ giới hạn đó.**
 
-Hãy nhìn vào cách chúng ta làm việc hiện tại: Hàng tá tệp PDF vô hồn nằm chết trong các thư mục. Các công cụ AI hiện hành (như ChatGPT) chỉ là những cỗ máy "hỏi-đáp" thụ động, dễ sinh ra ảo giác (Hallucination) và không có khả năng kích thích tư duy phản biện. Con người đang dần trở thành những "thợ gõ Prompt" lười biếng, mất đi khả năng kết nối kiến thức sâu sắc.
-
-**Đó là một cuộc khủng hoảng. Và AstraPath là giải pháp.**
+Chúng tôi không xây dựng một ứng dụng ghi chú. Chúng tôi kiến tạo một **Hệ sinh thái Nhận thức Không gian (Spatial Cognitive Ecosystem)**. Thay vì giam cầm tri thức trong các "Thư mục" (Folders) vô hồn, AstraPath ánh xạ dữ liệu của bạn lên một Vũ trụ 3D (Vector Space). Tại đây, tri thức không chỉ để đọc, mà để **chạm vào, tương tác vật lý và biến đổi thành hiện thực chỉ trong chớp mắt**.
 
 ---
 
-## 🌟 2. The Spatial Paradigm (Triết lý Tiếp cận)
+## 💎 2. Tính năng Lõi (The Crown Jewel): MakeReal Engine
 
-AstraPath không cố gắng tạo ra một "Chatbot thông minh hơn". Chúng tôi đập bỏ giao diện 2D truyền thống để kiến tạo một **Hệ sinh thái Không gian (Spatial Ecosystem)**.
+> *"Khoảng cách từ Trí tưởng tượng đến Mã nguồn nay chỉ còn vài mili-giây."*
 
-Sức mạnh của AstraPath nằm ở việc hội tụ 3 công nghệ lõi:
-1. **Edge-computed RAG:** Phân tích tài liệu ngay tại trình duyệt. Bảo mật tuyệt đối. Không ảo giác.
-2. **Generative UI (Vision-to-Code):** AI thị giác phân tích nét vẽ tay và sinh mã nguồn tức thời.
-3. **Interactive WebGL:** Ánh xạ dữ liệu thành các thực thể vật lý trong không gian 3D.
+Đối với những người không có chuyên môn lập trình (Non-coders), việc truyền đạt một ý tưởng giao diện là một cực hình. AstraPath giải quyết triệt để rào cản này bằng **MakeReal Engine** – tính năng biến phác thảo nét vẽ tay thành một ứng dụng web hoạt động được ngay lập tức trên màn hình.
+
+<div align="center">
+  <!-- YÊU CẦU: HÃY CHÈN 1 ẢNH GIF / VIDEO DEMO TÍNH NĂNG MAKEREAL CỦA BẠN TẠI ĐÂY (CHIẾM TRỌN MÀN HÌNH) -->
+  <img src="https://placehold.co/800x400/1e1e1e/cyan?text=[CHÈN_ẢNH_GIF_MAKEREAL_CỰC_ĐẸP_TẠI_ĐÂY]" width="800" alt="MakeReal Demo GIF"/>
+  <p><em>Demo: Hệ thống phân tích nét vẽ tay và hydrate UI Component theo thời gian thực ngay trên Canvas.</em></p>
+</div>
+
+### ⚙️ Luồng xử lý Kỹ thuật bậc sâu (Deep Data Flow):
+
+Sự kỳ diệu trên giao diện được chống lưng bởi một luồng xử lý (pipeline) kỹ thuật đồ sộ và tinh vi:
+
+1. **User Defining (Khoanh vùng Context):** Người dùng dùng công cụ "Magic Frame" trên nền tảng Canvas vô cực (tích hợp `@excalidraw/excalidraw`).
+2. **Edge OCR & Blob Export:** Ngay tại trình duyệt (Client-side), hệ thống chạy thuật toán chụp ảnh chất lượng cao (`exportToBlob`) kết hợp `getTextFromElements` để bóc tách toàn bộ nhãn (labels) văn bản thô, giúp AI hiểu chính xác "ý định" (intent) chứ không chỉ là "hình dáng".
+3. **Multi-modal Routing (Điều phối AI):** Dữ liệu Base64 Data URL được nén và đẩy qua service `callVisionModel`. Hệ thống tự động cân bằng tải và lựa chọn giữa **Gemini 1.5 Pro Vision** (cho layout phức tạp) hoặc **Groq Llama 3.2 Vision** (cho tốc độ siêu tốc).
+4. **Spatial Reasoning (Tư duy Không gian):** AI đọc `SYSTEM_PROMPT_MAKE_REAL` của chúng tôi (chứa quy tắc Glassmorphism, Responsive CSS), phân tích tọa độ hình học và xuất ra mã nguồn HTML/Tailwind CSS chuẩn xác.
+5. **Sanitization & Live Hydration:** Khối `htmlify` dùng Regex lọc sạch mã độc và rác định dạng. Cuối cùng, một `<iframe>` được khởi tạo động, biến nét vẽ của bạn thành một giao diện "sống" ngay tại tọa độ vùng chọn.
 
 ---
 
-## 🛸 3. Khám Phá Trạm Không Gian AstraPath (Product Showcase)
+## 🏗️ 3. Kiến trúc RAG Chuẩn Doanh nghiệp (Enterprise-Grade Edge RAG)
 
-Thay vì những lời quảng cáo sáo rỗng, hãy nhìn vào những gì chúng tôi đã thực sự chế tạo.
-
-### 🌌 3.1. Constellation Space (Bản đồ Tri thức 3D)
-*Tạm biệt những thư mục lồng nhau nhàm chán.* Mọi phiên làm việc (Session) của bạn được AstraPath ánh xạ thành những "Ngôi sao" lấp lánh trên không gian đa chiều. 
+AstraPath không gọi API một cách hời hợt. Chúng tôi giải quyết bài toán lớn nhất của LLM hiện nay: **Sự ảo giác (Hallucination) và Quyền riêng tư (Privacy).**
 
 <div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 1 (Giao diện Ngân hà có các node màu neon rực rỡ, góc phải có Tactical Timer) -->
-  <img src="[CHÈN_ẢNH_SỐ_1_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Constellation Space"/>
-  <p><em>Giao diện điều khiển HUD, nơi các chủ đề được liên kết đồ thị trực quan.</em></p>
+  <!-- YÊU CẦU: CHÈN ẢNH SƠ ĐỒ HỆ THỐNG / KIẾN TRÚC MÀ BẠN CÓ (HOẶC VẼ 1 CÁI ĐƠN GIẢN TRÊN FIGMA) -->
+  <img src="https://placehold.co/700x300/1e1e1e/gold?text=[SƠ_ĐỒ_KIẾN_TRÚC_HỆ_THỐNG_RAG]" width="700" alt="System Architecture"/>
 </div>
 
-### 🎯 3.2. Cỗ máy Sự thật: Zero-Hallucination Edge RAG
-Vấn đề tử huyệt của AI là "nói dối". AstraPath khắc phục hoàn toàn bằng tính năng **Source Insight**. Khi bạn truy vấn, AI không chỉ trả lời mà còn **trích dẫn ngược (back-linking)**. Khi click vào số trích dẫn `[1]`, hệ thống lập tức mở tài liệu gốc và Highlight (bôi đậm) chính xác dòng văn bản chứa thông tin đó. 
+### 🔒 Client-Side Parsing (Bảo mật Tuyệt đối)
+Thay vì đẩy hàng MB tài liệu PDF của người dùng lên Server rủi ro, AstraPath sử dụng thư viện `unpdf` để **phân rã văn bản ngay tại trình duyệt của người dùng (Edge-computing)**. Dữ liệu nhạy cảm không bao giờ rời khỏi máy tính của bạn cho đến khi nó được mã hóa thành các cụm (chunks) siêu nhỏ.
 
-<div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 4 (Ảnh màn hình có phần highlight "SUPERVISED LEARNING - FOUNDATIONS" bên trái) -->
-  <img src="[CHÈN_ẢNH_SỐ_4_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Source Insight Highlight"/>
-  <p><em>Minh bạch 100%: Dẫn chứng được chiếu sáng trực tiếp trên tài liệu gốc.</em></p>
-</div>
+### 🎯 Zero-Hallucination Pipeline (Tính năng Source Insight)
+Khi bạn hỏi, AI của AstraPath không được phép đoán mò. Chúng tôi ép luồng suy luận của mô hình cực lớn (`llama3-70b-8192` qua hạ tầng LPU siêu tốc) phải sinh ra các **Citations (Trích dẫn Metadata)**. 
 
-### 🎙️ 3.3. Thực thể Phản biện (The Feynman Debate)
-Học tập thực sự là một cuộc đấu tranh. Thay vì chiều chuộng bạn, AI của AstraPath sẽ đóng vai "Kẻ phản biện" (Devil's Advocate). Nó sẽ bắt lỗi logic của bạn, ép bạn phải dùng phương pháp Feynman để giải thích lại vấn đề từ gốc rễ.
+<details>
+<summary>👉 <em>(Click để xem)</em> <b>Kiến trúc JSON Payload Nội bộ của Source Insight</b></summary>
 
-<div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 5 (Ảnh AI phản biện màu đỏ: "You think you understand supervised learning, but...") -->
-  <img src="[CHÈN_ẢNH_SỐ_5_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Feynman Debate Mode"/>
-</div>
-
-### 🪄 3.4. MakeReal Engine: Từ Nét Vẽ Đến Mã Nguồn
-Khả năng "Ma thuật" nhất của AstraPath. Tích hợp bảng vẽ vô cực, bạn chỉ cần phác thảo một ý tưởng (ví dụ: Form Đăng nhập). AI Vision sẽ quét vùng chọn, nội suy logic bố cục và Render trực tiếp thành một ứng dụng Web (HTML/Tailwind) ngay trên Canvas.
-
-<div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 10 (Ảnh có bảng vẽ tay "Login form" bên trái và Form HTML thật bên phải) -->
-  <img src="[CHÈN_ẢNH_SỐ_10_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="MakeReal Engine"/>
-  <p><em>Rào cản lập trình đã bị phá vỡ. Mọi ý tưởng đều có thể chạm vào được.</em></p>
-</div>
-
-### 📊 3.5. Instant Mindmap Synthesis
-Phân tích toàn bộ ngữ cảnh của kho tài liệu và xuất thẳng ra sơ đồ tư duy đa chiều bằng thuật toán sinh đồ thị tự động.
-
-<div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 7 (Ảnh có Preview cái Mindmap nền đen khổng lồ bên góc phải) -->
-  <img src="[CHÈN_ẢNH_SỐ_7_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Instant Mindmap"/>
-</div>
-
-### 🎧 3.6. Neuro-Acoustic Engine (Hệ thống Đồng bộ Sóng não)
-> *"Khoa học thần kinh đã chứng minh hiệu quả của tần số âm thanh từ hàng thập kỷ trước. Nhưng nghịch lý thay, các phần mềm hiện đại lại phớt lờ nó. Chúng tôi mang nó trở lại, và biến nó thành vũ khí."*
-
-Trong khi thế giới phải mở Spotify hay Youtube để nghe Lofi một cách thụ động và đầy xao nhãng, AstraPath tích hợp sẵn một **Phòng lab Âm thanh Thần kinh (Neural Entrainment)** ngay trên giao diện.
-
-<div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 8 hoặc 9 (Ảnh UI Soundscape, chọn sóng Alpha/Beta) VÀO ĐÂY -->
-  <img src="[CHÈN_ẢNH_GIAO_DIỆN_SOUNDSCAPE_VÀO_ĐÂY]" width="850" alt="Neural Entrainment Soundscape"/>
-  <p><em>Công nghệ Audio Context API tạo ra tần số binaural trực tiếp trên trình duyệt.</em></p>
-</div>
-
-Chúng tôi không cung cấp "nhạc nền". Chúng tôi cung cấp **"Tần số ép buộc sự tập trung"**:
-*   **Alpha Waves (8-14Hz):** Đưa não bộ vào trạng thái *Flow State* (Dòng chảy) để học tập sâu.
-*   **Beta Waves (14-30Hz):** Kích thích sự tỉnh táo tột độ khi cần giải quyết logic phức tạp (Code/Toán).
-*   **Theta Waves (4-8Hz):** Dành cho các phiên Brainstorming cần sự sáng tạo tĩnh lặng.
-*   **White Noise Mixer:** Trộn âm thanh môi trường (Mưa, Lửa trại, Tiếng ồn trắng) với thanh trượt mượt mà, cô lập hoàn toàn người dùng khỏi tạp âm vật lý bên ngoài.
-
-Kết hợp cùng Tactical Timer (Pomodoro), AstraPath không chỉ quản lý *thời gian* của bạn, nó quản lý **trạng thái não bộ** của bạn.
-
----
-
-## 📈 4. The AstraPath Effect (Hiệu quả & Tác động)
-
-AstraPath không chỉ là một bài tập dự thi. Đây là một nguyên mẫu (Prototype) sẵn sàng để thương mại hóa (SaaS).
-
-1. **Với Người đi học/Nghiên cứu:** Giảm 80% thời gian tra cứu thụ động. Phương pháp Feynman và không gian âm thanh *Deep Work (Binaural Beats)* tích hợp sẵn giúp đưa não bộ vào trạng thái Dòng chảy (Flow state) cực nhanh.
-2. **Với Doanh nhân/Non-coders:** Tính năng MakeReal giúp tiết kiệm hàng tuần lễ thiết kế Wireframe và Prototype, biến ý tưởng sản phẩm thành hiện thực trong các cuộc họp Brainstorming.
-3. **Tính Đột phá:** Lần đầu tiên, một hệ thống kết hợp hoàn hảo giữa *3D Spatial UI, Client-side RAG và Vision-to-Code* được vận hành trơn tru ngay trên một nền tảng Web duy nhất.
-
----
-
-## ⚙️ 5. Under The Hood (Bảo vệ Mã Nguồn)
-
-Sự mượt mà của AstraPath được kiến tạo bởi hơn **100+ commits, 3 lần tái cấu trúc kiến trúc** và một Stack công nghệ tối tân (React 19, Vite, Three.js, Groq LPU, Excalidraw Core).
-
-> 🔒 **Thông báo về Sở hữu Trí tuệ (IP Notice):** 
-> Để bảo vệ thuật toán lõi và lợi thế cạnh tranh trước Vòng Chung Kết AI Young Guru, toàn bộ mã nguồn đang được khóa trong Monorepo bảo mật.
-> 
-> Ban Giám Khảo có thể kiểm chứng mọi tính năng thông qua **Video Demo Thực Tế** bên dưới. Chúng tôi đã sẵn sàng 100% để đối chất kỹ thuật và live-demo toàn bộ hệ thống tại **Vòng 2 (Sàn đấu)**.
-
-<div align="center">
-  <h3>✨ Hãy bước vào Kỷ nguyên Không gian ✨</h3>
-  <br>
-  <!-- YÊU CẦU: CHÈN LINK YOUTUBE CỦA BẠN VÀO ĐÂY -->
-  <a href="[LINK_VIDEO_DEMO_YOUTUBE_CỦA_BẠN]">
-    <img src="https://img.shields.io/badge/▶_XEM_VIDEO_DEMO_THỰC_TẾ_ASTRAPATH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
-  </a>
-</div>
+```json
+// LLM Response bị ép buộc phải trả về định dạng bọc Citation
+{
+  "index": 1,
+  "sourceId": "uuid-v4-identifier",
+  "sourceTitle": "whitepaper_astra.pdf",
+  "excerpt": "Hệ thống sử dụng cơ chế so khớp văn bản..."
+}
