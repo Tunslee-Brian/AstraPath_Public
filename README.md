@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/AstraPath_banner.png" alt="AstraPath Logo"/>
+  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/AstraPath_banner.png?raw=true" alt="AstraPath Logo"/>
   <h1>🌌 AstraPath: The Spatial Cognitive Engine</h1>
   <p><strong>Hệ điều hành Không gian cho Nghiên cứu, Tư duy và Sáng tạo</strong></p>
   
@@ -150,4 +150,5 @@ Sự mượt mà của AstraPath được kiến tạo bởi hơn **100+ commits
     <img src="https://img.shields.io/badge/▶_XEM_VIDEO_DEMO_THỰC_TẾ_ASTRAPATH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
+
 
