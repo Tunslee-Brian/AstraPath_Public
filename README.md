@@ -56,12 +56,33 @@ Vấn đề tử huyệt của AI là "nói dối". AstraPath khắc phục hoà
   <p><em>Minh bạch 100%: Dẫn chứng được chiếu sáng trực tiếp trên tài liệu gốc.</em></p>
 </div>
 
-### 🎙️ 3.3. Thực thể Phản biện (The Feynman Debate)
-Học tập thực sự là một cuộc đấu tranh. Thay vì chiều chuộng bạn, AI của AstraPath sẽ đóng vai "Kẻ phản biện" (Devil's Advocate). Nó sẽ bắt lỗi logic của bạn, ép bạn phải dùng phương pháp Feynman để giải thích lại vấn đề từ gốc rễ.
+### 🎙️ 3.3. Bộ Đôi Động Cơ Nhận Thức (The Dual Intelligence Engines)
+
+Tại AstraPath, chúng tôi không để người dùng tiếp nhận thông tin thụ động. Chúng tôi tạo ra sự "ma sát trí tuệ" để kích thích não bộ thông qua hai chế độ tương tác độc lập:
+
+#### 🟢 3.3.1. Feynman Mode (Học bằng cách Giảng giải)
+Dựa trên kỹ thuật học tập nổi tiếng của nhà vật lý Richard Feynman: *"Nếu bạn không thể giải thích một vấn đề một cách đơn giản, nghĩa là bạn chưa hiểu đủ sâu về nó."*
+
+- **Cơ chế:** Người dùng đóng vai trò là "Người thầy" giải thích lại kiến thức cho AI. 
+- **Phân tích thông minh:** AI lắng nghe, đối chiếu với cơ sở dữ liệu (Source data) và thực hiện **Cognitive Grading (Chấm điểm nhận thức)**.
+- **Output:** Hệ thống cung cấp biểu đồ đánh giá mức độ hiểu bài (ví dụ: 90/100) và chỉ ra chính xác những "Lỗ hổng logic" bạn cần bổ sung để làm chủ hoàn toàn kiến thức.
 
 <div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 5 (Ảnh AI phản biện màu đỏ: "You think you understand supervised learning, but...") -->
-  <img src="[CHÈN_ẢNH_SỐ_5_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Feynman Debate Mode"/>
+  <!-- YÊU CẦU: CHÈN ẢNH SỐ 11 (Ảnh mới nhất bạn vừa gửi: "Explaining Concept - 90/100") -->
+  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_feynman_mode.png?raw=true" width="850" alt="Feynman Mode Dashboard"/>
+  <p><em>Hệ thống đánh giá năng lực thấu hiểu và gợi ý cải thiện kiến thức theo thời gian thực.</em></p>
+</div>
+
+#### 🔴 3.3.2. Debate Mode (Kẻ Phản Biện Khắt Khe)
+Trong khi Feynman Mode hỗ trợ việc ghi nhớ, **Debate Mode** tập trung vào việc phá vỡ những định kiến và rèn luyện tư duy phản biện.
+
+- **Cơ chế:** AI đóng vai **"Devil's Advocate" (Kẻ phản biện)**. Nó sẽ chủ động tấn công vào các lỗ hổng trong luận điểm của bạn, đặt ra những câu hỏi hóc búa và ép bạn phải bảo vệ quan điểm bằng dẫn chứng.
+- **Mục tiêu:** Tạo ra sự "khó chịu tích cực" để người dùng không bao giờ chấp nhận thông tin một cách dễ dãi. Đây là bài tập cường độ cao cho não bộ để phát triển khả năng tranh biện và tư duy logic.
+
+<div align="center">
+  <!-- YÊU CẦU: CHÈN ẢNH SỐ 5 (Ảnh hộp thoại màu đỏ: "You think you understand...") -->
+  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_debate_mode.png?raw=true" width="850" alt="Debate Mode"/>
+  <p><em>Thách thức tư duy thông qua những cuộc đối đầu trí tuệ trực tiếp.</em></p>
 </div>
 
 ### 🪄 3.4. MakeReal Engine: Từ Nét Vẽ Đến Mã Nguồn
@@ -129,3 +150,4 @@ Sự mượt mà của AstraPath được kiến tạo bởi hơn **100+ commits
     <img src="https://img.shields.io/badge/▶_XEM_VIDEO_DEMO_THỰC_TẾ_ASTRAPATH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
+
