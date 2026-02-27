@@ -71,7 +71,7 @@ Thay vì những lời quảng cáo sáo rỗng, hãy nhìn vào những gì ch�
 AstraPath không hiển thị dữ liệu; chúng tôi kiến tạo một **Vũ trụ Tri thức (Knowledge Galaxy)** nơi mỗi hành động đều tuân theo các quy luật vật lý không gian.
 
 <div align="center">
-  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_constellation.png?raw=true" width="850" alt="Constellation Space UX"/>
+  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_main.mp4?raw=true" width="850" alt="Constellation Space UX"/>
   <p><em>Mỗi ngôi sao là một "Lõi Tri thức" - Một hệ sinh thái học tập độc lập.</em></p>
 </div>
 
@@ -89,7 +89,7 @@ Vấn đề tử huyệt của AI là "nói dối". AstraPath khắc phục hoà
 
 <div align="center">
   <!-- YÊU CẦU: CHÈN ẢNH SỐ 4 (Ảnh màn hình có phần highlight "SUPERVISED LEARNING - FOUNDATIONS" bên trái) -->
-  <img src="[CHÈN_ẢNH_SỐ_4_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Source Insight Highlight"/>
+https://github.com/user-attachments/assets/5f8105e4-0722-40bc-bc35-c5d48878554d
   <p><em>Minh bạch 100%: Dẫn chứng được chiếu sáng trực tiếp trên tài liệu gốc.</em></p>
 </div>
 
@@ -218,6 +218,7 @@ AstraPath không được sinh ra để nằm trong bóng tối của những kh
     <img src="https://img.shields.io/badge/▶_XEM_VIDEO_DEMO_THỰC_TẾ_ASTRAPATH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
+
 
 
 
