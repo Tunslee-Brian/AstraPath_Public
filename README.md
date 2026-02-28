@@ -61,11 +61,11 @@ Thực tế, chúng em xây dựng AstraPath đầu tiên là để... cứu l�
 
 ---
 
-## 🛸 3. Trạm Không Gian AstraPath (Demo Tính Năng)
+## 🛸 4. Trạm Không Gian AstraPath (Demo Tính Năng)
 
 Thay vì nói những lời hoa mỹ, chúng em xin mời Ban Giám Khảo xem những gì team đã thực sự code được.
 
-### 🌌 3.1. Constellation Space: Vũ trụ Tri thức 3D
+### 🌌 4.1. Constellation Space: Vũ trụ Tri thức 3D
 
 Chúng em không muốn hiển thị danh sách file như Windows Explorer. Trong AstraPath, mỗi chủ đề học tập là một ngôi sao.
 
@@ -79,7 +79,7 @@ Chúng em không muốn hiển thị danh sách file như Windows Explorer. Tron
 *   **Vệ tinh ghi nhớ:** Một vệ tinh nhỏ sẽ luôn bay quanh bài học gần nhất. Mở máy lên là biết ngay hôm qua mình đang học dở bài nào, không cần lục tìm.
 *   **Hố đen:** Muốn xóa file? Kéo nó vào hố đen. Hiệu ứng hạt (particles) nổ tung tạo cảm giác giải tỏa căng thẳng rất đã mắt.
 
-### 🎯 3.2. Chống "Ảo giác": Zero-Hallucination Edge RAG
+### 🎯 4.2. Chống "Ảo giác": Zero-Hallucination Edge RAG
 
 Đây là tính năng chúng em tự hào nhất. Khi hỏi bài, AI sẽ trả lời và gắn số `[1]`, `[2]`. Bấm vào số đó, tài liệu gốc sẽ hiện ra và **bôi đậm (highlight)** đúng dòng chứa thông tin. 
 
@@ -88,7 +88,7 @@ Chúng em không muốn hiển thị danh sách file như Windows Explorer. Tron
   <p><em>Không sợ AI "chém gió" sai kiến thức nữa.</em></p>
 </div>
 
-### 🎙️ 3.3. Hai chế độ học sâu (Deep Learning)
+### 🎙️ 4.3. Hai chế độ học sâu (Deep Learning)
 
 Chúng em thiết kế 2 "nhân cách" cho AI để việc học bớt buồn chán:
 
@@ -109,14 +109,14 @@ Học theo phương pháp của Richard Feynman: *"Nếu bạn không giải th�
   <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_debate_mode.png?raw=true" width="850" alt="Debate Mode"/>
 </div>
 
-### 🪄 3.4. MakeReal: Vẽ là có Prototype
+### 🪄 4.4. MakeReal: Vẽ là có Prototype
 Tính năng này giúp chúng em hiện thực hóa ý tưởng cực nhanh. Vẽ một ý tưởng nảy ra trong đầu, AI nhận diện hình ảnh và tạo giao diện ngay lập tức.
 
 <div align="center">
   <video controls src="https://github.com/user-attachments/assets/d953f00a-2fd0-4f47-b5ee-1e08008d7fae"></video>
 </div>
 
-### 🎧 3.5. Soundscape: Âm thanh cho sự tập trung
+### 🎧 4.5. Soundscape: Âm thanh cho sự tập trung
 Thú thật là chúng em rất khó tập trung khi có tiếng ồn, nhưng bật nhạc lời thì lại hay hát theo. AstraPath tích hợp sẵn bộ mixer âm thanh khoa học:
 *   **Sóng Alpha:** Giúp tỉnh táo nhẹ nhàng để học thuộc lòng.
 *   **Sóng Beta:** Tăng tốc độ xử lý khi giải Toán/Lý.
@@ -129,7 +129,7 @@ Thú thật là chúng em rất khó tập trung khi có tiếng ồn, nhưng b�
 
 ---
 
-## 📈 4. Hiệu quả thực tế
+## 📈 5. Hiệu quả thực tế
 
 Đây không chỉ là bài dự thi, đây là công cụ mà Team Mì Hảo Hảo đang dùng mỗi ngày để ôn thi Tốt nghiệp:
 1.  **Tiết kiệm thời gian:** Giảm hẳn việc phải Google lung tung. Hỏi là có đáp án kèm dẫn chứng sách giáo khoa.
@@ -137,7 +137,7 @@ Thú thật là chúng em rất khó tập trung khi có tiếng ồn, nhưng b�
 
 ---
 
-## 🔬 5. Cơ sở khoa học
+## 🔬 6. Cơ sở khoa học
 
 Chúng em không code bừa. Mọi tính năng đều dựa trên những nghiên cứu tâm lý giáo dục mà team đã tìm hiểu:
 *   **[1] Sweller, J. (1988):** *Cognitive Load Theory*.  nền tảng cho cách AstraPath giảm tải thông tin thừa trên UI để tối ưu hóa việc học sâu.
@@ -151,7 +151,7 @@ Chúng em không code bừa. Mọi tính năng đều dựa trên những nghiê
 
 ---
 
-## ⚙️ 6. Câu chuyện chuyện về Code (Under The Hood)
+## ⚙️ 7. Câu chuyện chuyện về Code (Under The Hood)
 
 Để AstraPath chạy mượt mà trên trình duyệt, team đã phải đập đi xây lại 3 lần với hơn 100+ commits. Chúng em sử dụng React 19 mới nhất, kết hợp Three.js cho đồ họa và Groq LPU để AI phản hồi nhanh như điện.
 
@@ -162,7 +162,7 @@ Chúng em không code bừa. Mọi tính năng đều dựa trên những nghiê
 
 ---
 
-## 🌌 7. Lời hứa của Team
+## 🌌 8. Lời hứa của Team
 
 AstraPath bắt đầu từ phòng ngủ của những cô cậu học trò lớp 12, nhưng chúng em không muốn nó dừng lại ở đó.
 
@@ -178,3 +178,4 @@ Cảm ơn Ban Giám Khảo đã dành thời gian ghé thăm trạm không gian 
 <div align="center">
   <h3>✨ Mong gặp lại BGK tại Vòng Chung Kết! ✨</h3>
 </div>
+
