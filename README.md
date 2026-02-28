@@ -71,7 +71,7 @@ Thay vì những lời quảng cáo sáo rỗng, hãy nhìn vào những gì ch�
 AstraPath không hiển thị dữ liệu; chúng tôi kiến tạo một **Vũ trụ Tri thức (Knowledge Galaxy)** nơi mỗi hành động đều tuân theo các quy luật vật lý không gian.
 
 <div align="center">
-  <img src="https://github.com/Tunslee-Brian/AstraPath_Public/blob/main/assets/UI_main.mp4?raw=true" width="850" alt="Constellation Space UX"/>
+  <video controls src="https://github.com/user-attachments/assets/588e20c9-47df-438f-8a8c-f7821d77af44"></video>
   <p><em>Mỗi ngôi sao là một "Lõi Tri thức" - Một hệ sinh thái học tập độc lập.</em></p>
 </div>
 
@@ -88,8 +88,7 @@ Hệ thống này ứng dụng **Proprioceptive Interaction** (Tương tác bả
 Vấn đề tử huyệt của AI là "nói dối". AstraPath khắc phục hoàn toàn bằng tính năng **Source Insight**. Khi bạn truy vấn, AI không chỉ trả lời mà còn **trích dẫn ngược (back-linking)**. Khi click vào số trích dẫn `[1]`, hệ thống lập tức mở tài liệu gốc và Highlight (bôi đậm) chính xác dòng văn bản chứa thông tin đó. 
 
 <div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 4 (Ảnh màn hình có phần highlight "SUPERVISED LEARNING - FOUNDATIONS" bên trái) -->
-https://github.com/user-attachments/assets/5f8105e4-0722-40bc-bc35-c5d48878554d
+  <video controls src="https://github.com/user-attachments/assets/5f8105e4-0722-40bc-bc35-c5d48878554d"></video>
   <p><em>Minh bạch 100%: Dẫn chứng được chiếu sáng trực tiếp trên tài liệu gốc.</em></p>
 </div>
 
@@ -125,7 +124,7 @@ Khả năng "Ma thuật" nhất của AstraPath. Tích hợp bảng vẽ vô c�
 
 <div align="center">
   <!-- YÊU CẦU: CHÈN ẢNH SỐ 10 (Ảnh có bảng vẽ tay "Login form" bên trái và Form HTML thật bên phải) -->
-  <img src="[CHÈN_ẢNH_SỐ_10_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="MakeReal Engine"/>
+  <video controls src="https://github.com/user-attachments/assets/d953f00a-2fd0-4f47-b5ee-1e08008d7fae"></video>
   <p><em>Rào cản lập trình đã bị phá vỡ. Mọi ý tưởng đều có thể chạm vào được.</em></p>
 </div>
 
@@ -133,8 +132,7 @@ Khả năng "Ma thuật" nhất của AstraPath. Tích hợp bảng vẽ vô c�
 Phân tích toàn bộ ngữ cảnh của kho tài liệu và xuất thẳng ra sơ đồ tư duy đa chiều bằng thuật toán sinh đồ thị tự động.
 
 <div align="center">
-  <!-- YÊU CẦU: CHÈN ẢNH SỐ 7 (Ảnh có Preview cái Mindmap nền đen khổng lồ bên góc phải) -->
-  <img src="[CHÈN_ẢNH_SỐ_7_CỦA_BẠN_VÀO_ĐÂY]" width="850" alt="Instant Mindmap"/>
+  <video controls src="https://github.com/user-attachments/assets/837d22a3-1e80-4ab5-8b11-51b686198429"></video>
 </div>
 
 ### 🎧 3.6. Neuro-Acoustic Engine (Hệ thống Đồng bộ Sóng não)
@@ -144,7 +142,10 @@ Trong khi thế giới phải mở Spotify hay Youtube để nghe Lofi một cá
 
 <div align="center">
   <!-- YÊU CẦU: CHÈN ẢNH SỐ 8 hoặc 9 (Ảnh UI Soundscape, chọn sóng Alpha/Beta) VÀO ĐÂY -->
-  <img src="[CHÈN_ẢNH_GIAO_DIỆN_SOUNDSCAPE_VÀO_ĐÂY]" width="850" alt="Neural Entrainment Soundscape"/>
+  <img width="850" alt="UI_sound" src="https://github.com/user-attachments/assets/6190fa1e-953c-4310-ad43-20b9018f2da6" />
+
+  <video controls src="https://github.com/user-attachments/assets/58b93a2c-d893-4dda-b65e-496c538bb7d4"></video>
+  <img width="850" alt="Audio_Preview" src="https://github.com/user-attachments/assets/676aa06e-6cb7-4bc3-adf9-d4050b4a4ab8" />
   <p><em>Công nghệ Audio Context API tạo ra tần số binaural trực tiếp trên trình duyệt.</em></p>
 </div>
 
@@ -218,6 +219,7 @@ AstraPath không được sinh ra để nằm trong bóng tối của những kh
     <img src="https://img.shields.io/badge/▶_XEM_VIDEO_DEMO_THỰC_TẾ_ASTRAPATH-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
   </a>
 </div>
+
 
 
 
